@@ -25,18 +25,16 @@ This repository provides scripts to enhance the user experience on the ThinkPad 
    chmod +x rotate_widget.sh
    chmod +x disable_wacom_gestures.sh
    ```
-Autostart Scripts
+3. **Autostart Scripts**
 To ensure the scripts run on login, add disable-wacom-gestures.sh and rotate_screen.sh to your system’s autostart configuration. (Note: the process varies depending on your distro.)
 
-Add a Widget or Shortcut for rotate_widget.sh
+4. **Add a Widget or Shortcut for rotate_widget.sh**
 Set up a shortcut or toolbar widget to call rotate_widget.sh so you can easily toggle screen rotation as needed.
 
-Reboot
-After completing the setup, reboot your device.
+5. **Reboot**
 
-Enjoy
-Your X1 Tablet Gen 3 is now better optimized for Linux!
+6. **Enjoy**
 
-Notes
+**Notes**
 Usage of rotate_widget.sh
 You can use rotate_widget.sh without adding it to autostart. The script saves the current rotation state in a file, ensuring compatibility across various distributions, including Kubuntu.
