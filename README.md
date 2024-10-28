@@ -37,3 +37,6 @@ Set up a shortcut or toolbar widget to call rotate_widget.sh so you can easily t
 
 **Notes**:
 You can use rotate_widget.sh without adding it to autostart. The script saves the current rotation state in a file. This was done to ensure it is compatible with distros like Kubuntu.
+
+**License**:  
+These scripts are free to use, share, and modify without any restrictions. If you share, fork, or modify these scripts, please mention or credit the original creator.
