@@ -1,4 +1,4 @@
-# X1 Tablet Gen 3 Linux Tools
+# Thinkpad X1 Tablet Gen 3 Linux Stuff
 
 This repository provides scripts to enhance the user experience on the ThinkPad X1 Tablet Gen 3 when running Debian-based Linux distributions. These scripts optimize touchscreen functionality, enable screen rotation on device orientation changes, and provide a widget for toggling rotation on demand.
 
