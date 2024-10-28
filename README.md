@@ -23,7 +23,7 @@ This repository provides scripts to enhance the user experience on the ThinkPad 
    ```bash
    chmod +x rotate_screen.sh
    chmod +x rotate_widget.sh
-   chmod +x disable-wacom-gestures.sh
+   chmod +x disable_wacom_gestures.sh
    ```
 Autostart Scripts
 To ensure the scripts run on login, add disable-wacom-gestures.sh and rotate_screen.sh to your system’s autostart configuration. (Note: the process varies depending on your distro.)
